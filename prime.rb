@@ -28,7 +28,7 @@ def prime?(n)
   while b > 1
     n % b
   end
-  binding.pry
+  #binding.pry
   if b = 1
     true
 end
