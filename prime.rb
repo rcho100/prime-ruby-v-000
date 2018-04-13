@@ -21,8 +21,8 @@ require "pry"
 # if n == 2
 #   true
 # elsif n > 2 && n.odd?
-#   array << n 
+#   array << n
 
-def method_name(prime?)
+def prime?
 
 end
