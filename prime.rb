@@ -29,5 +29,6 @@ def prime?(n)
     n % b
   end
   binding.pry
-
+  if b = 1
+    true
 end
