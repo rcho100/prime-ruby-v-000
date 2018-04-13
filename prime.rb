@@ -24,5 +24,7 @@ require "pry"
 #   array << n
 
 def prime?(n)
-
+  b = n-1
+  while b > 1
+    n % b 
 end
