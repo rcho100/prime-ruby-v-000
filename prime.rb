@@ -31,4 +31,5 @@ def prime?(n)
   #binding.pry
   if b = 1
     true
+  end
 end
