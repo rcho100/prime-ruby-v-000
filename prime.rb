@@ -23,6 +23,6 @@ require "pry"
 # elsif n > 2 && n.odd?
 #   array << n 
 
-def method_name
+def method_name(prime?)
 
 end
