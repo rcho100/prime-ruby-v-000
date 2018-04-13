@@ -28,4 +28,5 @@ def prime?(n)
   while b > 1
     binding.pry
     n % b
+  end
 end
