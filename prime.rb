@@ -26,7 +26,8 @@ require "pry"
 def prime?(n)
   b = n-1
   while b > 1
-    binding.pry
     n % b
   end
+  binding.pry
+
 end
